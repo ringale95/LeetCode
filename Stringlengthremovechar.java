@@ -12,4 +12,4 @@ public class StringlengthremoveChar {
         int num = solution.minLength(str);
         System.out.println(num);
     }
-}
+} 
